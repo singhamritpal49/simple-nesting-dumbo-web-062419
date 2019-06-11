@@ -16,8 +16,8 @@ def hopper
         }
      }
 
-#programmer_hash[:grace_hopper]
-programmer_hash[:alan_kay]
+programmer_hash[:grace_hopper]
+
 
 end
 
