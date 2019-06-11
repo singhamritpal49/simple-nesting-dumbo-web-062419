@@ -118,10 +118,10 @@ end
 def adding_to_dennis
 	programmer_hash =
  		{
-        #:grace_hopper => {
-        #  :known_for => "COBOL",
-        #  :languages => ["COBOL", "FORTRAN"]
-        #},
+        :grace_hopper => {
+          :known_for => "COBOL",
+          :languages => ["COBOL", "FORTRAN"]
+        },
         :alan_kay => {
           :known_for => "Object Orientation",
           :languages => ["Smalltalk", "LISP"]
